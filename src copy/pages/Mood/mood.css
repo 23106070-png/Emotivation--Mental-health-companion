@@ -1,0 +1,75 @@
+.mood1{
+  
+  height: 180vmin;
+  width: 100%;
+  background-color: #bee5e8;
+  text-align: center;
+}
+.head{
+  
+    color: #0e745f ;
+    height: 3vmin;
+    text-decoration: underline;
+    
+}
+.how{
+  text-align: center;
+  color:#25564c ;
+  margin-top: 5vmin;
+ 
+}
+.moods{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5vmin;
+  height: 50vmin;
+  font-size: 7vmin;
+
+}
+.happy{
+height: 30vmin;
+width: 30vmin;
+border: 1px solid #25564c;
+border-radius: 50%;
+cursor: pointer;
+
+}
+.fear{
+  height: 30vmin;
+  width: 30vmin;
+  border: 1px solid #25564c;
+  border-radius: 50%;
+  cursor: pointer;
+  }
+.sad{
+    height: 30vmin;
+    width: 30vmin;
+    border: 1px solid #25564c;
+    border-radius: 50%;
+    cursor: pointer;
+    }
+.anger{
+      height: 30vmin;
+      width: 30vmin;
+      border: 1px solid #25564c;
+      border-radius: 50%;
+      cursor: pointer;
+      }
+.goto{
+  margin-top: 15vmin;
+  height: 20vmin;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 5vmin;
+}
+button{
+  height: 6vmin;
+  width: 15vmin;
+  border-radius: 2vmin;
+  background-color: #25564c;
+  color: #bee5e8;
+  border: none;
+  cursor: pointer;
+}

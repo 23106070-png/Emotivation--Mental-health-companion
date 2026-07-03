@@ -1,0 +1,42 @@
+.moodup{
+    height: 100vmin;
+    width: 100%;
+    background-color: #bee5e8;
+}
+.heading{
+    text-align: center;
+    color: #2e593d;
+    padding-top: 2vmin;
+    padding-bottom: 2vmin;
+}
+ul{
+    margin-left: 20vmin;
+}
+.ways{
+    padding-top: 1.5vmin;
+    padding-bottom: 1.5vmin;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.miuu{
+    align-self: center;
+    background-color: #2e593d;
+    width: 95vmin;
+    height: 8vmin;
+    color: #bee5e8;
+    border-radius: 3vmin;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.tune{
+    padding: 0.5vmin 0.5vmin 0.5vmin 0.5vmin;
+    
+}
+.link-style {
+    text-decoration: none;
+    color: inherit; /* This will keep the text color unchanged */
+  }
+  

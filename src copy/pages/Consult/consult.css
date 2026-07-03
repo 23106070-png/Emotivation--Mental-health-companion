@@ -1,0 +1,35 @@
+.consult{
+    height: 180vmin;
+    width: 100%;
+    background-color: #bee5e8;
+    color: #2e593d;
+}
+.dr1{
+    margin-top: 2vmin;
+    width: 80%;
+    height: 40vmin;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #2e593d;
+   border-radius: 3vmin;
+   
+}
+.deta{
+    width: 50%;
+    height: 30vmin;
+    padding: 2vmin;
+    color: #197b73;
+}
+.unknown{
+    height: 30vmin;
+    margin-top: -3vmin;
+   padding: 2vmin;
+ 
+}
+.psy{
+    padding-top: 2vmin;
+    text-align: center;
+    text-decoration: underline;
+}
